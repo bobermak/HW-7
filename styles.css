@@ -1,9 +1,10 @@
 
 a[href^="https"] {
-  color: red;  
+  color: red;
 }
 
 
 ul + p {
   font-size: 24px;
 }
+
